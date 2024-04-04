@@ -1,7 +1,9 @@
 # Shopping_Cart_app
+<hr>
 Welcome to the Shopping Cart App repository! This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with Tailwind CSS for styling.
 
-Features:<br>
+##Features:<br>
+<hr>
 Browse products<br>
 Add products to cart<br>
 Update cart items<br>
@@ -11,17 +13,20 @@ View order history<br>
 
 
 
-Follow these steps to get the app up and running:<br>
+##Follow these steps to get the app up and running:<br>
+<hr>
 ```
 npm install
 npm start
 ```
-Technologies Used<br>
+##Technologies Used<br>
+<hr>
 MongoDB: NoSQL database for storing product and user data<br>
 Express.js: Backend framework for building RESTful APIs<br>
 React.js: Frontend library for building user interfaces<br>
 Node.js: JavaScript runtime environment for server-side development<br>
 Tailwind CSS: Utility-first CSS framework for styling<br>
-Contributing<br>
+##Contributing<br>
+<hr>
 Contributions are welcome! If you have any suggestions, bug fixes, or feature implementations, feel free to open an issue or create a pull request.
 
