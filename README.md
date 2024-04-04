@@ -12,8 +12,10 @@ View order history<br>
 
 
 Follow these steps to get the app up and running:<br>
+```
 npm install<br>
 npm start<br>
+```
 Technologies Used<br>
 MongoDB: NoSQL database for storing product and user data<br>
 Express.js: Backend framework for building RESTful APIs<br>
